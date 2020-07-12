@@ -7,7 +7,7 @@ trigger:
 - master
 
 parameters:
-- name: run_stage_release
+- name: run_release
   displayName: Release Build Artifact(s)
   type: boolean
   default: false
